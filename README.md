@@ -1,3 +1,5 @@
+![medicalify](https://github.com/Hugolify/medicalify-template/assets/4457294/52231f5a-71bf-4d90-b786-4875ca2b589b)
+
 # medicalify-template
 
 Is a Github template based to Hugolify
@@ -5,8 +7,6 @@ Is a Github template based to Hugolify
 https://www.medicalify.io
 
 ## Live demo
-
-![medicalify](https://github.com/Hugolify/medicalify-template/assets/4457294/52231f5a-71bf-4d90-b786-4875ca2b589b)
 
 https://demo.medicalify.io
 
