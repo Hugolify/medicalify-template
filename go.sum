@@ -16,6 +16,8 @@ github.com/hugolify/hugolify-theme-persons-statutes v1.1.8 h1:zNEjQyvVfyYz42YOZZ
 github.com/hugolify/hugolify-theme-persons-statutes v1.1.8/go.mod h1:/eWhaX5TxpPMzR6B/p071ViwbAllrqqCv6Soqta6FjY=
 github.com/hugolify/hugolify-theme-services v1.0.5 h1:HBp0WVSJwYdTrQLAvGibAapDCp1YWbCisF21W27TCMM=
 github.com/hugolify/hugolify-theme-services v1.0.5/go.mod h1:cQLM7C338M+jGK9Lk1rg+4VOymcKkDFJLPgfrtp3Xtg=
+github.com/hugolify/medicalify-example-site v0.0.0-20231129095128-bff3912bc01c h1:KMt4S6N6Nhrk1h4N8zSgRXuguKJpj+W5u90Y4ShgJNw=
+github.com/hugolify/medicalify-example-site v0.0.0-20231129095128-bff3912bc01c/go.mod h1:Nn75vRO6mNccpbYjrnNuvz376zddl+427U67mP7Bykg=
 github.com/hugolify/medicalify-theme v0.0.0-20231129095153-1e2ecb40ee23 h1:0k++V3wzdZE52oKjWjP3KQBMieMrEBwxD0B3TxhVUuA=
 github.com/hugolify/medicalify-theme v0.0.0-20231129095153-1e2ecb40ee23/go.mod h1:MgYccWexYZNR1hiEzs/Umuco1jV0hvfKs8Obixh1M0Q=
 github.com/midzer/tobii v2.7.1+incompatible h1:wNAKvMPUCzYpSM7qM8TkNtjYdua9s2lC7oZorsE4ixU=

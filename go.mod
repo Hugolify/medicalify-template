@@ -12,6 +12,7 @@ require (
 	github.com/hugolify/hugolify-theme-persons-expertises v1.0.4 // indirect
 	github.com/hugolify/hugolify-theme-persons-statutes v1.1.8 // indirect
 	github.com/hugolify/hugolify-theme-services v1.0.5 // indirect
+	github.com/hugolify/medicalify-example-site v0.0.0-20231129095128-bff3912bc01c // indirect
 	github.com/hugolify/medicalify-theme v0.0.0-20231129095153-1e2ecb40ee23 // indirect
 	github.com/midzer/tobii v2.7.1+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect

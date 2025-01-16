@@ -2,6 +2,7 @@
 
 imports:
   # Specific Medicalify
+  - path: github.com/hugolify/medicalify-example-site
   - path: github.com/hugolify/medicalify-theme
 
   # For exampleSite
